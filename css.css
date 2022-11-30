@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    background-image: url('./images/pexels-johannes-plenio-1118873.jpg');
+    /* background-position: center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: white;
+}
+/* .container{
+    display: flex;
+} */
